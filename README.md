@@ -1,7 +1,5 @@
 # Set-up-a-cloud-development-environment.
 
-# Cloud Development Environment Setup
-
 This project provides a step-by-step guide to setting up and working with a cloud development environment using AWS services. It demonstrates how to use **Amazon SageMaker Studio**, **Cloud9**, **GitLab**, **S3**, and **EC2** to manage and push Python code. The lab includes debugging code, setting up repositories, working with S3 for file storage, and pushing changes to a GitLab self-managed server on Amazon EC2.
 
 ## Tools and Services Used
